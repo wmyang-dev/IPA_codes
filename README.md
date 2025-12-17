@@ -1,7 +1,7 @@
 # Introduction
 
-This project is an implementation of various image processing techniques in Python. 
-It focuses on tasks such as filtering, template matching, and analyzing region properties. 
+This project is an implementation of various image processing techniques in Python[2]. 
+It focuses on tasks such as filtering, template matching, and analyzing region properties[1]. 
 
 The main goal is to provide a set of scripts that can process images, detect features (like raisins in example datasets), and perform basic analysis on detected objects. 
 It is useful for learning fundamental image processing workflows, testing different filtering methods, and experimenting with noise addition and object detection.
@@ -47,3 +47,10 @@ The analysis includes counting valid objects, identifying the smallest object, a
 
 An additional experiment demonstrates the robustness of the approach under image rotation.
 <img width="1795" height="862" alt="Screenshot 2024-10-27 at 22 41 01" src="https://github.com/user-attachments/assets/1fbb6d11-57b1-4413-baeb-fdc60b0418f8" />
+
+
+
+
+### Citation
+[1]Paul F. Whelan (2024), "Image Processing & Analysis - EEN1039/EEN1044 ", Assignment Instruction ,Dublin City University, 2024.<br>
+[2]Wei-Ming, Yang (2024), "Image Processing & Analysis - EEN1039/EEN1044 ", Technical Report, Dublin City University, 2024.
