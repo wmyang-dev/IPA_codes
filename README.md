@@ -28,7 +28,7 @@ The outputs illustrate the accuracy of single-instance detection as well as full
 The source code is [`part2a`](part2a_rotateAndNoise.py) and [`part2b`](part2b).
 
 
-
+### Output:
 
 <img width="1107" height="665" alt="part2a" src="https://github.com/user-attachments/assets/1e1afba7-b0fb-4882-b953-69e1aeaaf02f" />
 <img width="987" height="59" alt="0 92 and 0 91" src="https://github.com/user-attachments/assets/f2fc32bb-868c-4575-ab19-5a7f56a282da" />
@@ -40,7 +40,7 @@ The source code is [`part2a`](part2a_rotateAndNoise.py) and [`part2b`](part2b).
 This section focuses on analysing connected regions in an image to extract meaningful object-level properties. 
 Using a colour image of raisins, exploring automated object segmentation while excluding boundary-touching properties. 
 The analysis includes counting valid objects, identifying the smallest object, and extracting its its area and centroid.
-
+### Output:
 
 <img width="900" height="593" alt="found object display" src="https://github.com/user-attachments/assets/0432f579-4848-42eb-b4a2-fbd3ff5066ce" />
 <img width="976" height="296" alt="found object details" src="https://github.com/user-attachments/assets/c12d579e-b8ce-4e17-8441-83ddf7e54578" />
