@@ -1,0 +1,14 @@
+/venv
+*.py
+*.png
+*.jpg
+
+!part1.py
+
+!part2a_rotateAndNoise.py
+!part2b.py
+
+!part3a_findRaisins.py
+!part3b_smallestRaisin.py
+!part3c_experiment.py
+!part3c_2experiment.py
